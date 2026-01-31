@@ -1,0 +1,28 @@
+Project Name: Process Scheduler Simulation Tool
+
+Description:
+This project is a simulation tool for studying CPU scheduling algorithms.
+It allows users to input processes with arrival times, burst times, and priorities,
+and then simulate their execution using different scheduling strategies.
+
+Supported Algorithms:
+1. FCFS (First-Come, First-Served)
+2. DRF (Dynamic Response Factor)
+3. SRTF (Shortest Remaining Time First)
+4. Priority Scheduling (Preemptive and Non-Preemptive)
+
+Features:
+- Interactive command-line interface
+- Gantt chart visualization
+- Calculation of Waiting Time, Turnaround Time, and Average Metrics
+- Comparison of scheduling algorithms for performance analysis
+
+Use Case:
+- Educational tool for OS students
+- Helps visualize process scheduling and analyze CPU utilization
+- Useful for understanding scheduling metrics and preemption effects
+
+Author: Ankita Yadav
+
+
+deploy Link: https://process-scheduler-simulation-tool.netlify.app/
